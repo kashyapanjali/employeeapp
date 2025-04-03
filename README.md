@@ -6,7 +6,7 @@ This project is a **CRUD-based Employee Management System** with **Admin User Fu
 
 ## Features
 
-- **User Authentication**: Google OAuth for secure login.
+- **User Authentication**: Google OAuth for secure login and signup.
 - **Admin Panel**: Only admins can perform CRUD operations.
 - **Employee Management**: Add, update, delete, and view employee data.
 - **Profile Image Upload**: Store employee profile pictures in MongoDB.
